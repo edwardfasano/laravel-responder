@@ -1094,16 +1094,6 @@ If you're letting the package handle exceptions, you can now throw the exception
 throw new SoldOutException();
 ```
 
-# Contributing
-
-Contributions are more than welcome and you're free to create a pull request on Github. You can run tests with the following command:
-
-```shell
-vendor/bin/phpunit
-```
-
-If you find bugs or have suggestions for improvements, feel free to submit an issue on Github. However, if it's a security related issue, please send an email to flugged@gmail.com instead.
-
 # Donating
 
 The package is completely free to use, however, a lot of time has been put into making it. If you want to show your appreciation by leaving a small donation, you can do so by clicking [here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PRMC9WLJY8E46&lc=NO&item_name=Laravel%20Responder&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted). Thanks!
